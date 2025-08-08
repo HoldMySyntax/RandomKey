@@ -7,4 +7,4 @@ Options to include uppercase letters, numbers, and special characters.
 Ensures that each password generated is unique.
 Installation
 
-Clone the repository:git clone https://github.com/HoldMySyntax/RandomKey.gitv
+Clone the repository: git clone https://github.com/HoldMySyntax/RandomKey.git
